@@ -39,7 +39,7 @@ export const projects = [
   },
   
   {
-    number: "04",
+    number: "03",
     title: "Parlons de l'informatique",
     type: "Initiative éducative · Vulgarisation numérique",
     description: "Initiative de partage de connaissances pour rendre l'informatique plus accessible aux débutants, étudiants, entrepreneurs et professionnels.",
